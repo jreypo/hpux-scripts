@@ -9,4 +9,4 @@ LVM scripts: Three scripts to emulate in HP-UX the behavior of Linux LVM command
 - vgs.sh
 - pvs.sh
 
-Ignite scripts: Two scripts to deploy HP-UX bxes from an Ignite-UX backup or golden image. Written for HP-UX 11iv2 and 11iv3 versions.
+Ignite scripts: Scripts to deploy HP-UX boxes from an Ignite-UX backup or golden image. Written for HP-UX 11iv2 and 11iv3 versions.
