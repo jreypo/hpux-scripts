@@ -9,4 +9,9 @@ hpux-scripts
 <li>vgs.sh</li>
 <li>pvs.sh</li>
 </ul>
-<p><strong>Ignite scripts: </strong>Scripts to deploy HP-UX boxes from an Ignite-UX backup or golden image. Written for HP-UX 11iv2 and 11iv3 versions.</p>
+<p><strong>vg00 mirror scripts: </strong>Scripts to mirror vg00 volume group in HP-UX. Written for HP-UX 11iv2 and 11iv3 versions.</p>
+
+<ul>
+<li>mirror_hpux_11.23.sh</li>
+<li>mirror_hpux_11.31.sh</li>
+</ul>
